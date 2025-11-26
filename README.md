@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello! ✨ I’m Sahana, a curious builder, learner, and problem-solver.<br>I love exploring technology that improves user experience — whether through intuitive UI, clean code, or meaningful design.<br><br>Right now, I’m experimenting with mobile development, AI tools, and front-end technologies, constantly leveling up through projects and internships.<br>I thrive in spaces where ideas turn into action and learning never stops. 🚀
+Hello! ✨ I’m Sahana J G, a curious builder, learner, and problem-solver.<br>I love exploring technology that improves user experience — whether through intuitive UI, clean code, or meaningful design.<br><br>Right now, I’m experimenting with mobile development, AI tools, and front-end technologies, constantly leveling up through projects and internships.<br>I thrive in spaces where ideas turn into action and learning never stops. 🚀
 
 
 ## 🌐 Socials:
